@@ -36,6 +36,8 @@ STRINGS = {
         "result_win": "Prime hunter victory! {correct}/{total}, score {score}",
         "result_draw": "Good hunt. {correct}/{total}, score {score}",
         "result_loss": "The primes escaped. {correct}/{total}, score {score}",
+        "separator": "======== Prime Hunter ========",
+        "score_entry": "{idx}. {name} - {score} ({difficulty})",
     },
     "zh": {
         "title": "质数猎人",
@@ -72,6 +74,8 @@ STRINGS = {
         "result_win": "质数猎人胜利！{correct}/{total}，分数 {score}",
         "result_draw": "狩猎不错。{correct}/{total}，分数 {score}",
         "result_loss": "质数逃走了。{correct}/{total}，分数 {score}",
+        "separator": "======== 质数猎人 ========",
+        "score_entry": "{idx}. {name} - {score} ({difficulty})",
     },
 }
 
